@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+*.log
+.vscode/
+backend-services
+__debug_bin
+.env
